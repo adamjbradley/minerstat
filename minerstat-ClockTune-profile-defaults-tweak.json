@@ -1,0 +1,1 @@
+﻿{"defaults-tweak":{"nvidia":{"windows":{"powerlimit":"skip skip","powerlimitwatt":"125 85","coreclock":"-50 -100","lockedcoreclock":"skip skip","lockedmemoryclock":"skip skip","fan":"70","memoryclock":"900 -1004","clocktunedelay":0,"pstate":"skip skip","engine":"1"}}}}

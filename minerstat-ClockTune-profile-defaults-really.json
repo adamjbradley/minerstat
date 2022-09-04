@@ -1,0 +1,1 @@
+﻿{"defaults-really":{"nvidia":{"windows":{"powerlimit":"skip skip","powerlimitwatt":"125 125","coreclock":"-50 -100","lockedcoreclock":"skip skip","lockedmemoryclock":"skip skip","fan":"70","memoryclock":"900 -502","clocktunedelay":0,"pstate":"skip skip","engine":"1"}}}}
